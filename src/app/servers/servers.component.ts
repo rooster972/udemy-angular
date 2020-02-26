@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 
 @Component({
   selector: "app-servers",
-  templateUrl: "./servers.components.html",
+  templateUrl: "./servers.component.html",
   styleUrls: ["./servers.component.scss"]
 })
 export class ServersComponent {
